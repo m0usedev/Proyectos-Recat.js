@@ -40,7 +40,7 @@ Esto iniciará la aplicación y podrás acceder a ella en tu navegador web visit
 
 A continuación, se muestra una lista de los recursos de aprendizaje que he utilizado hasta ahora:
 
-- [Video del Curso de Introducción a React.js](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=8459s: Curso con el que me introduje a React.js.
+- Curso de Introducción a React.js(https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=8459s): Curso con el que me introduje a React.js.
 <!--- [Nombre del recurso 1](enlace_al_recurso_1): Descripción o breve explicación del recurso 1.-->
 
 Esta lista se irá actualizando a medida que vaya explorando y utilizando nuevos recursos de aprendizaje en mi viaje de dominio de React.js.
