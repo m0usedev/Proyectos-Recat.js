@@ -21,9 +21,9 @@ Consiste en imitar parte de la pagina FreeCodeCamp
 
 3. **Navega al directorio del proyecto:** Abre una terminal integrada en Visual Studio Code y navega al directorio `ejercicio_1`. Puedes hacerlo usando el comando `cd ejercicio_1`.
 
-4. **Instala las dependencias:** Ejecuta el siguiente comando en la terminal para instalar las dependencias del proyecto:
+4. **Instala las dependencias:** Ejecuta el siguiente comando en la terminal para instalar las dependencias del proyecto: npx create-react-app ejercicio_1
 
-5. **Ejecuta el proyecto:** Una vez que todas las dependencias se hayan instalado correctamente, ejecuta el siguiente comando en la terminal:
+5. **Ejecuta el proyecto:** Una vez que todas las dependencias se hayan instalado correctamente, ejecuta el siguiente comando en la terminal: npm start
 
 Esto iniciará la aplicación y podrás acceder a ella en tu navegador web visitando [http://localhost:3000](http://localhost:3000).
 
